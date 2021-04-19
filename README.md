@@ -1,4 +1,4 @@
-# Introduction to Writing in Econ
+# Seminar on Field Experiments
 
 This repo is created for the Seminar on Introduction to Field Experiments for the students of International Max Planck Research School, BeSmart. 
 
