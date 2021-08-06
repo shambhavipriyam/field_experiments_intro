@@ -1,6 +1,6 @@
-# Seminar on Field Experiments
+# An Introduction to Conducting Experiments in the Field 
 
-This repo is created for the Seminar on Introduction to Field Experiments for the students of International Max Planck Research School, BeSmart. 
+This repo is created for the Seminar on An Introduction to Conducting Experiments in the Field  for the students of International Max Planck Research School, BeSmart. 
 
 Date: 23-24 August, 2021
 
@@ -21,53 +21,62 @@ Examples of field experiment ideas in the Harry Potter world:
 
 ## Syllabus and Readings
 
-*Session I* 
-_August 23rd: 10:00 ? 11:00_ 
+**Session I** 
+
+_August 23rd: 10:00 -11:00_ 
+
 Research Design Process 
 -	Why field experiments?
 -	Timeline of field experiments
 -	Finding partners, practitioners, and implementors 
 -	Ethics of randomization and IRB
 
-List, John A., and Steven Levitt. 2006. "What Do Laboratory Experiments Tell Us About the Real World?" University of Chicago and NBER. 
+1. List, John A., and Steven Levitt. 2006. "What Do Laboratory Experiments Tell Us About the Real World?" University of Chicago and NBER. 
 
-Harrison, Glenn and John A. List. 2004. "Field Experiments." Journal of Economic Literature, XLII: 1013-1059.
+2. Harrison, Glenn and John A. List. 2004. "Field Experiments." Journal of Economic Literature, XLII: 1013-1059.
 
-Duflo, Esther,  Abhijit Banerjee, Rachel Glennerster, and Michael Kremer. 2006. “Using Randomization in Development Economics: A Toolkit.” in Handbook of Development Economics.
+3. Duflo, Esther,  Abhijit Banerjee, Rachel Glennerster, and Michael Kremer. 2006. “Using Randomization in Development Economics: A Toolkit.” in Handbook of Development Economics.
 
-Bruhn, Miriam and David McKenzie. 2008. "In Pursuit of Balance." The World Bank Policy Research Working Paper 4752.
+4. Bruhn, Miriam and David McKenzie. 2008. "In Pursuit of Balance." The World Bank Policy Research Working Paper 4752.
 
-Beecher, Henry K. "Ethics and Clinical Research." New England Journal of Medicine (1966).
-
-
-_Break 15 mins_
+5. Beecher, Henry K. "Ethics and Clinical Research." New England Journal of Medicine (1966).
 
 
-*Session II*
-_August 23rd: 11:15 ? 12:15_ 
+_--Break 15 mins--_
+
+
+**Session II**
+
+_August 23rd: 11:15 -12:15_ 
+
 Measurement and Minimizing Errors 
 -	Survey design and instruments 
 -	Data collection tools
 -	Sample and power 
 -	Threats to internal validity
 
-Deaton, Angus. 1997. The Analysis of Household Surveys. Baltimore: John Hopkins University Press for the World Bank. 
+1. Deaton, Angus. 1997. The Analysis of Household Surveys. Baltimore: John Hopkins University Press for the World Bank. 
 
-Miguel, Edward and Michael Kremer. 2004. “Worms: Identifying Impacts on Education and Health in the Presence of Treatment Externalities.” Econometrica, 72 (1): 159-217. (NBER Working Paper #8481, August 2001). 
+2. Miguel, Edward and Michael Kremer. 2004. “Worms: Identifying Impacts on Education and Health in the Presence of Treatment Externalities.” Econometrica, 72 (1): 159-217. (NBER Working Paper #8481, August 2001). 
 
 
-*Session III*
+**Session III**
+
 _August 24th: 10:00 ? 11:00_
+
 Causal Inference and Hypothesis Testing 
 -	Estimating effects
 -	Statistical tools 
 
-Gerber and Green, Field Experiments. Chapter 3: Sampling Distributions, Statistical Inference, and Hypothesis Testing.
+1. Gerber and Green, Field Experiments. Chapter 3: Sampling Distributions, Statistical Inference, and Hypothesis Testing.
 
 _Break 15 mins_
 
-*Session IV* 
+
+**Session IV** 
+
 _August 24th: 11:15 ? 12:15 _
+
 Discussion of Examples and Ripe Areas for Research 
 -	Participants discuss ideas 
 -	Examples from past experiment
