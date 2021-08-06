@@ -10,7 +10,7 @@ The GitHub repository will contain list of readings and preparation details for 
 Participants would benefit from having Stata and R (with R Studio) installed on their computers. 
 
 ## To do before the class 
-Here [LINK](http://github.com/shambhavipriyam/field_experiments_intro/documents) you will find a form which can be used to cover all the aspects of research design. Before the class, think of a research idea that you want to implement and fill the form accordingly. We will discuss ideas from your forms in the last session. If there are fields that you are very unsure about, we can take them up during the discussion. 
+In the documents folder you will find a form which can be used to cover all the aspects of research design. Before the class, think of a research idea that you want to implement and fill the form accordingly. We will discuss ideas from your forms in the last session. If there are fields that you are very unsure about, we can take them up during the discussion. 
 
 In case you do not have a research idea that you want to implement, you can also make this a fictional research idea that takes place in a (known) fictional world. We may make you explain the idea and fictional world during the discussion. 
 
@@ -62,7 +62,7 @@ Measurement and Minimizing Errors
 
 ### Session III
 
-_August 24th: 10:00 ? 11:00_
+_August 24th: 10:00-11:00_
 
 Causal Inference and Hypothesis Testing 
 -	Estimating effects
@@ -75,7 +75,7 @@ _--Break 15 mins--_
 
 ### Session IV
 
-_August 24th: 11:15 ? 12:15 _
+_August 24th: 11:15-12:15_
 
 Discussion of Examples and Ripe Areas for Research 
 -	Participants discuss ideas 
