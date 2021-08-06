@@ -10,7 +10,7 @@ The GitHub repository will contain list of readings and preparation details for 
 Participants would benefit from having Stata and R (with R Studio) installed on their computers. 
 
 ## To do before the class 
-Here [LINK](documents/design_form) you will find a form which can be used to cover all the aspects of research design. Before the class, think of a research idea that you want to implement and fill the form accordingly. We will discuss ideas from your forms in the last session. If there are fields that you are very unsure about, we can take them up during the discussion. 
+Here [LINK](http://github.com/shambhavipriyam/field_experiments_intro/documents/design_form) you will find a form which can be used to cover all the aspects of research design. Before the class, think of a research idea that you want to implement and fill the form accordingly. We will discuss ideas from your forms in the last session. If there are fields that you are very unsure about, we can take them up during the discussion. 
 
 In case you do not have a research idea that you want to implement, you can also make this a fictional research idea that takes place in a (known) fictional world. We may make you explain the idea and fictional world during the discussion. 
 
@@ -21,7 +21,7 @@ Examples of field experiment ideas in the Harry Potter world:
 
 ## Syllabus and Readings
 
-###Session I 
+### Session I 
 
 _August 23rd: 10:00 -11:00_ 
 
@@ -45,7 +45,7 @@ Research Design Process
 _--Break 15 mins--_
 
 
-###Session II
+### Session II
 
 _August 23rd: 11:15 -12:15_ 
 
@@ -60,7 +60,7 @@ Measurement and Minimizing Errors
 2. Miguel, Edward and Michael Kremer. 2004. “Worms: Identifying Impacts on Education and Health in the Presence of Treatment Externalities.” Econometrica, 72 (1): 159-217. (NBER Working Paper #8481, August 2001). 
 
 
-###Session III
+### Session III
 
 _August 24th: 10:00 ? 11:00_
 
@@ -73,7 +73,7 @@ Causal Inference and Hypothesis Testing
 _--Break 15 mins--_
 
 
-###Session IV
+### Session IV
 
 _August 24th: 11:15 ? 12:15 _
 
