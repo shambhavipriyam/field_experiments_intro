@@ -6,8 +6,7 @@ Date: 23-24 August, 2021
 
 Conducting field experiments requires both practical and statistical methods. Researchers have to be familiar with tools and processes for designing and implementing experiments in the field. This course introduces research practices and hand-on tools geared towards providing technical skills to researchers. We will focus on measurement in the field and how to minimize errors when collecting data. We will discuss examples of participant ideas for field experiments in the latter part of the course. 
 
-The GitHub repository will contain list of readings and preparation details for example discussion. It will be made live 4 weeks prior to the course. 
-Participants would benefit from having Stata and R (with R Studio) installed on their computers. 
+The GitHub repository will contain list of readings and preparation details for example discussion. Participants would benefit from having Stata and R (with R Studio) installed on their computers. 
 
 ## To do before the class 
 In the documents folder you will find a form which can be used to cover all the aspects of research design. Before the class, think of a research idea that you want to implement and fill the form accordingly. We will discuss ideas from your forms in the last session. If there are fields that you are very unsure about, we can take them up during the discussion. 
